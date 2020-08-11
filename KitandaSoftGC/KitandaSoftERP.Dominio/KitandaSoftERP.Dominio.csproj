@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entidades\Hospitalar\**" />
+    <Compile Remove="Entidades\Partilha\**" />
+    <EmbeddedResource Remove="Entidades\Hospitalar\**" />
+    <EmbeddedResource Remove="Entidades\Partilha\**" />
+    <None Remove="Entidades\Hospitalar\**" />
+    <None Remove="Entidades\Partilha\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interface\" />
+    <Folder Include="Servicos\" />
+  </ItemGroup>
+
+</Project>

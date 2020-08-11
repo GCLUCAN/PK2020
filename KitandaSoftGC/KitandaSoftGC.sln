@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitandaSoftGC", "KitandaSoftGC\KitandaSoftGC.csproj", "{EA780B63-37D1-476B-BBCB-A7E603F5A0F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitandaSoft.Infra.Dados", "KitandaSoft.Infra.Dados\KitandaSoft.Infra.Dados.csproj", "{97C5575D-E18D-45B9-9897-C78703456753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitandaSoftERP.Aplicacao", "KitandaSoftERP.Aplicacao\KitandaSoftERP.Aplicacao.csproj", "{D362463B-942E-445C-B131-21FB1A2DB058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitandaSoftERP.Dominio", "KitandaSoftERP.Dominio\KitandaSoftERP.Dominio.csproj", "{92174B52-1AB9-4461-86C7-B0B8CE737E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitandaSoftERP.Dominio.Partilha", "KitandaSoftERP.Dominio.Partilha\KitandaSoftERP.Dominio.Partilha.csproj", "{E3C98D12-E986-4193-9DB1-D3786AEA12F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitandaSoftERP.Infra.CorteTransversal", "KitandaSoftERP.Infra.CorteTransversal\KitandaSoftERP.Infra.CorteTransversal.csproj", "{9D73DF71-A99C-47A6-976C-D8EAE940B896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitandaSoftERP.Infra.NucleoDados", "KitandaSoftERP.Infra.NucleoDados\KitandaSoftERP.Infra.NucleoDados.csproj", "{AC438529-5958-4270-82CE-FD1331349FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA780B63-37D1-476B-BBCB-A7E603F5A0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA780B63-37D1-476B-BBCB-A7E603F5A0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA780B63-37D1-476B-BBCB-A7E603F5A0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA780B63-37D1-476B-BBCB-A7E603F5A0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C5575D-E18D-45B9-9897-C78703456753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C5575D-E18D-45B9-9897-C78703456753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C5575D-E18D-45B9-9897-C78703456753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C5575D-E18D-45B9-9897-C78703456753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D362463B-942E-445C-B131-21FB1A2DB058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D362463B-942E-445C-B131-21FB1A2DB058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D362463B-942E-445C-B131-21FB1A2DB058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D362463B-942E-445C-B131-21FB1A2DB058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92174B52-1AB9-4461-86C7-B0B8CE737E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92174B52-1AB9-4461-86C7-B0B8CE737E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92174B52-1AB9-4461-86C7-B0B8CE737E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92174B52-1AB9-4461-86C7-B0B8CE737E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C98D12-E986-4193-9DB1-D3786AEA12F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C98D12-E986-4193-9DB1-D3786AEA12F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C98D12-E986-4193-9DB1-D3786AEA12F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C98D12-E986-4193-9DB1-D3786AEA12F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D73DF71-A99C-47A6-976C-D8EAE940B896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D73DF71-A99C-47A6-976C-D8EAE940B896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D73DF71-A99C-47A6-976C-D8EAE940B896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D73DF71-A99C-47A6-976C-D8EAE940B896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC438529-5958-4270-82CE-FD1331349FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC438529-5958-4270-82CE-FD1331349FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC438529-5958-4270-82CE-FD1331349FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC438529-5958-4270-82CE-FD1331349FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C0FE57-0483-46F0-8B9A-E3A385627ED4}
+	EndGlobalSection
+EndGlobal
