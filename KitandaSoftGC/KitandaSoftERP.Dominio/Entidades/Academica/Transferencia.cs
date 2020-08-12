@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace KitandaSoftERP.Dominio.Entidades
+namespace KitandaSoftERP.Dominio.Entidades.Academica
 {
     public class Transferencia
     {
@@ -18,4 +18,3 @@ namespace KitandaSoftERP.Dominio.Entidades
 
     }
 }
-

@@ -14,8 +14,40 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Interface\" />
-    <Folder Include="Servicos\" />
+    <Folder Include="Interface\Academica\ExtraCurricular\" />
+    <Folder Include="Interface\Academica\Faturacao\" />
+    <Folder Include="Interface\Academica\Secretaria\" />
+    <Folder Include="Interface\Clinica\" />
+    <Folder Include="Interface\Comercial\Compras\" />
+    <Folder Include="Interface\Contabilidade\" />
+    <Folder Include="Interface\Geral\" />
+    <Folder Include="Interface\Lavandaria\" />
+    <Folder Include="Interface\Logistica\" />
+    <Folder Include="Interface\Tesouraria\" />
+    <Folder Include="Interface\Stock\" />
+    <Folder Include="Interface\Seguranca\" />
+    <Folder Include="Interface\Retorno\" />
+    <Folder Include="Interface\Restauracao\" />
+    <Folder Include="Interface\RecursosHumanos\" />
+    <Folder Include="Interface\POS\" />
+    <Folder Include="Interface\Oficina\" />
+    <Folder Include="Servicos\Academica\ExtraCurricular\" />
+    <Folder Include="Servicos\Academica\Faturacao\" />
+    <Folder Include="Servicos\Academica\Secretaria\" />
+    <Folder Include="Servicos\Clinica\" />
+    <Folder Include="Servicos\Comercial\Compras\" />
+    <Folder Include="Servicos\Contabilidade\" />
+    <Folder Include="Servicos\Geral\" />
+    <Folder Include="Servicos\Lavandaria\" />
+    <Folder Include="Servicos\Logistica\" />
+    <Folder Include="Servicos\Tesouraria\" />
+    <Folder Include="Servicos\Stock\" />
+    <Folder Include="Servicos\Seguranca\" />
+    <Folder Include="Servicos\Retorno\" />
+    <Folder Include="Servicos\Restauracao\" />
+    <Folder Include="Servicos\RecursosHumanos\" />
+    <Folder Include="Servicos\POS\" />
+    <Folder Include="Servicos\Oficina\" />
   </ItemGroup>
 
 </Project>

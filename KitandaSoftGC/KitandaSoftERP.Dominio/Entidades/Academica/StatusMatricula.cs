@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace KitandaSoftERP.Dominio.Entidades
+namespace KitandaSoftERP.Dominio.Entidades.Academica
 {
     public class StatusMatricula : Retorno.TabelaGeral
     {
@@ -55,6 +55,5 @@ namespace KitandaSoftERP.Dominio.Entidades
             Sigla = pSigla;
             Descricao = pDescricao;
         }
-
     }
-}
+ }
